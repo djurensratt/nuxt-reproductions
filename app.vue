@@ -12,7 +12,7 @@ useServerSeoMeta({
   canonical: 'https://example.com',
   lang: 'en',
   ogImage: 'https://res.cloudinary.com/klandestino-ab/image/upload/c_fill,w_1200,h_630,q_auto,f_auto/djurensratt-se/loggor/share_1200x630',
-  ogUrl: () => 'https://example.com',
+  ogUrl: 'https://example.com',
   twitterCard: 'summary_large_image',
   twitterImage: 'https://res.cloudinary.com/klandestino-ab/image/upload/c_fill,w_1200,h_630,q_auto,f_auto/djurensratt-se/loggor/share_1200x630',
   abstract: 'A description',
